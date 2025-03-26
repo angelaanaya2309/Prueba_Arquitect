@@ -4,7 +4,7 @@ Este repositorio contiene el diseño técnico y arquitectural de un juego multij
 
 ⚡ Arquitectura del Proyecto
 
-
+[[https://github.com/angelaanaya2309/Prueba_Arquitect/blob/ac56800048886d042409250680fa87d94f69c6a0/pruebaJikosoft.jpg]]
 
 ✨ Características Principales
 
